@@ -1,0 +1,7 @@
+hopsworks
+streamlit
+pandas
+joblib
+wandb
+xgboost
+scikit_learn
